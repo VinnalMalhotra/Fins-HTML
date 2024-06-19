@@ -301,6 +301,7 @@
     flex-shrink: 0;
     width: 200px;
     position: relative;
+    margin-left: 3em;
 }
 
 .field-content {
